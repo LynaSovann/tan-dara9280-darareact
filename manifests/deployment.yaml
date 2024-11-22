@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: tan-dara9280-darareact-container
-          image: pipejet/tan-dara9280-darareact:0
+          image: pipejet/tan-dara9280-darareact:1
           ports:
             - containerPort: 3000
